@@ -60,7 +60,5 @@ I just added  src_ip=$ip_token$ for every panel and that would be the first dash
 Now this will mostly be for checking/investigating IP addresses and checking which country specifically is targetting my exposed network
 
 Dashboard Sample
-In general Scanning
-![[Pasted image 20250924202403.png]]
-Specific Port Scanning
-![[Pasted image 20250924202319.png]]
+![In general Scanning](general.png)
+![Specific Port Scanning](specific.png)
